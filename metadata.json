@@ -1,0 +1,6 @@
+{
+  "name": "AI ReelTok",
+  "description": "Modern TikTok-style social video platform featuring an AI Video Studio for generating, editing, and stitching reels, full social feed, creator dashboard, and Android APK support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

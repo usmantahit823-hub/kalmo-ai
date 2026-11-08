@@ -1,0 +1,18 @@
+{
+  "name": "AI ReelTok - AI Short-Video Social Platform",
+  "short_name": "ReelTok",
+  "description": "Modern TikTok-style social video platform featuring AI Video Studio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#ff0050",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%2309090b'/><path d='M30 20v60l45-30z' fill='%23ff0050'/><circle cx='68' cy='32' r='8' fill='%2300f2fe'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["entertainment", "social", "video", "photo"]
+}
